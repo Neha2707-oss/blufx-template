@@ -26,8 +26,8 @@ include("header.php");
                     <div class="col-xxl-6 col-xl-6 col-lg-8">
                         <div class="breadcrumb__title-wraper">
                             <span class="section__subtitle-7 wow fadeIn mb-20" data-wow-delay=".3s">About us</span>
-                            <h2 class="breadcrumb__title wow fadeIn" data-wow-delay=".5s">Empowering Financial Journey: <span
-                           class="gradient-text-3">Welcome to Online Banking.</span></h2>
+                            <h2 class="breadcrumb__title wow fadeIn" data-wow-delay=".5s">We leverage  <span
+                           class="gradient-text-3">cutting-edge technology</span></h2>
                         </div>
                     </div>
                 </div>
@@ -50,16 +50,9 @@ include("header.php");
                                 <span class="section__subtitle-7 mb-20">Our Mission</span>
                                 <h2 class="section__title mb-20">Empowering Financial Freedom.</h2>
                             </div>
-                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in hendrerit
-                                urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris.
-                                Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non
-                                suscipit.</p>
-                            <p>elit Ut et massa mi. <strong>Aliquam in hendrerit urna.</strong> Pellentesque sit amet sapien
-                                fringilla, mattis consectetur</p>
-                            <div class="btn__wrapper">
-                                <a class="bd-gradient-btn" href="contact.html">Know More<span><i
-                                 class="fa-regular fa-angle-right"></i></span></a>
-                            </div>
+                            <p>Our mission at Blufx is simple yet ambitious: to provide traders of all levels with the tools, knowledge, and resources they need to succeed in the forex market. We understand that trading can be complex and challenging, but we believe that with the right guidance and support, anyone can achieve financial independence through forex trading.</p>
+                            <p>At Blufx, we are passionate about empowering traders to reach their financial goals through the dynamic world of forex trading. Established in [Year], we have quickly emerged as a trusted and innovative leader in the forex industry.</p>
+                          
                         </div>
                     </div>
                 </div>
@@ -75,7 +68,7 @@ include("header.php");
                     <div class="row gy-5 align-items-center">
                         <div class="col-xxl-5 col-xl-6 col-lg-6">
                             <div class="revolution__intro section__title-space">
-                                <h3>Revolutionizing Banking <span class="text-paragraph">Through Online Innovation</span> </h3>
+                                <h3>Revolutionizing  <span class="text-paragraph">Through Online Innovation</span> </h3>
                             </div>
                         </div>
                     </div>
@@ -91,9 +84,9 @@ include("header.php");
                         <div class="revolution__item text-center is-mainly-red">
                             <div class="revolution__content">
                                 <div class="revolution__number">
-                                    <h2><span class="counter">25</span>+</h2>
+                                    <h2><span class="counter">45</span>+</h2>
                                 </div>
-                                <p>Years of Experience</p>
+                                <p>Teams </p>
                             </div>
                         </div>
                         <div class="revolution__item text-center is-mainly-blue">
@@ -128,10 +121,9 @@ include("header.php");
                                 <span class="section__subtitle-7 mb-20">Our values</span>
                                 <h2 class="section__title mb-25">Our Commitment to your Prosperity</h2>
                             </div>
-                            <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipiscing elit massa mi. Aliquam in
-                                hendrerit urna.</p>
+                            <p class="mb-0">At Blufx, we value the sense of community among our traders. We foster an environment where traders can connect, share insights, and learn from one another. We host forums, webinars, and social events to encourage collaboration and growth within our trading community.</p>
                             <div class="btn__wrapper">
-                                <a class="bd-gradient-btn" href="contact.html">Know More<span><i
+                                <a class="bd-gradient-btn" href="#">Know More<span><i
                                  class="fa-regular fa-angle-right"></i></span></a>
                             </div>
                         </div>
@@ -160,8 +152,8 @@ include("header.php");
                               </span>
                                     </div>
                                     <div class="our-values__content">
-                                        <h3>Be Genuine</h3>
-                                        <p>Keep empathy and comsion central to everything.</p>
+                                        <h3>Technology</h3>
+                                        <p>We leverage cutting-edge technology to provide our clients with fast, reliable, and secure trading platforms. Whether you're a beginner or an advanced trader, our technology caters to your needs.</p>
                                     </div>
                                 </div>
                             </div>
@@ -180,8 +172,8 @@ include("header.php");
                               </span>
                                     </div>
                                     <div class="our-values__content">
-                                        <h3>Invest in Growth</h3>
-                                        <p>Keep empathy and comsion central to everything.</p>
+                                        <h3>Risk Management</h3>
+                                        <p> We prioritize risk management and provide tools to help you protect your capital. Our risk management strategies are designed to help you minimize losses and maximize profits.</p>
                                     </div>
                                 </div>
                             </div>
@@ -198,8 +190,8 @@ include("header.php");
                               </span>
                                     </div>
                                     <div class="our-values__content">
-                                        <h3>Distil the SMS</h3>
-                                        <p>Keep empathy and comsion central to everything.</p>
+                                        <h3>Support</h3>
+                                        <p>Our dedicated support team is available around the clock to assist you with any questions or issues you may have. We are here to ensure that your trading experience with Blufx is smooth and enjoyable.</p>
                                     </div>
                                 </div>
                             </div>
@@ -226,8 +218,8 @@ include("header.php");
                               </span>
                                     </div>
                                     <div class="our-values__content">
-                                        <h3>Take Action</h3>
-                                        <p>Keep empathy and comsion central to everything.</p>
+                                        <h3>Transparency</h3>
+                                        <p>We believe in transparency and honesty. Our trading processes are clear and straightforward, and we are committed to maintaining the highest ethical standards in the industry.</p>
                                     </div>
                                 </div>
                             </div>
@@ -238,76 +230,6 @@ include("header.php");
         </section>
         <!-- Our Values area end -->
 
-        <!-- Team area start -->
-        <section class="team__area section-space">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-xxl-6 col-xl-6 col-lg-6">
-                        <div class="section__title-wrapper text-center section__title-space">
-                            <span class="section__subtitle-7 mb-20">Our Team</span>
-                            <h2 class="section__title">Our Leadership</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row wow fadeIn animated" data-wow-delay=".3s">
-                    <div class="col-xxl-12">
-                        <div class="team__carousel">
-                            <div class="swiper team__carousel-active">
-                                <div class="swiper-wrapper">
-                                    <div class="swiper-slide">
-                                        <div class="team__item text-center">
-                                            <div class="team__thumb">
-                                                <img src="assets/imgs/team/01.png" alt="image not found">
-                                            </div>
-                                            <div class="team__contenrt">
-                                                <h3><a href="#">James B. Carnes</a></h3>
-                                                <span>Managing Director</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="team__item text-center">
-                                            <div class="team__thumb">
-                                                <img src="assets/imgs/team/02.png" alt="image not found">
-                                            </div>
-                                            <div class="team__contenrt">
-                                                <h3><a href="#">Robert M. Williams</a></h3>
-                                                <span>CEO & Founder</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="team__item text-center">
-                                            <div class="team__thumb">
-                                                <img src="assets/imgs/team/03.png" alt="image not found">
-                                            </div>
-                                            <div class="team__contenrt">
-                                                <h3><a href="#">Claire T. Brown</a></h3>
-                                                <span>Finance Head</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="common__nav-pre pagination__wrappper">
-                                    <!-- If we need navigation buttons -->
-                                    <div class="common__navigation">
-                                        <button class="common__slider-button-prev"><i
-                                    class="fa-regular fa-angle-left"></i></button>
-                                        <!-- If we need pagination -->
-                                        <div class="why__choos-pagination">
-                                            <div class="bd-swiper-dot text-center"></div>
-                                        </div>
-                                        <button class="common__slider-button-next"><i
-                                    class="fa-regular fa-angle-right"></i></button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Team area end -->
 
         <!-- Section devider -->
         <div class="section__devider">
@@ -316,265 +238,10 @@ include("header.php");
             </div>
         </div>
 
-        <!-- Finance area start -->
-        <section class="finance__area section-space">
-            <div class="container">
-                <div class="row gy-50 justify-content-center wow fadeIn" data-wow-delay=".3s">
-                    <div class="col-xxl-6 col-xl-6 col-lg-6">
-                        <div class="finance__content">
-                            <div class="section__title-wrapper">
-                                <span class="section__subtitle-7 mb-20">Our finance</span>
-                                <h2 class="section__title mb-20">Need Money Now? Follow Us.</h2>
-                            </div>
-                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in hendrerit
-                                urna. Pellentesque sit amet sapien fringilla, mattis ligula consecte.</p>
-                            <div class="btn__wrapper">
-                                <a class="bd-gradient-btn" href="about.html">Know More<span><i
-                                 class="fa-regular fa-angle-right"></i></span></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xxl-6 col-xl-6 col-lg-6">
-                        <div class="finance__map-wrapper p-relative ">
-                            <div class="finance__map-bg">
-                                <img src="assets/imgs/bg/map-bg.png" alt="image not found">
-                            </div>
-                            <div class="lacation__item">
-                                <div class="dot dot-1"></div>
-                                <div class="location__map-info">
-                                    <div class="location__content">
-                                        <div class="location__top-info">
-                                            <p>Main Street</p>
-                                            <span>1.2 min</span>
-                                        </div>
-                                        <div class="location__info">
-                                            <div class="location__info-item">
-                                                <div class="location__info-icon">
-                                                    <span>
-                                          <svg width="15" height="20" viewBox="0 0 15 20" fill="none"
-                                             xmlns="http://www.w3.org/2000/svg">
-                                             <path
-                                                d="M7.5 0C3.365 0 0 3.38833 0 7.55417C0 13.4733 6.795 19.585 7.08417 19.8417C7.20333 19.9475 7.35167 20 7.5 20C7.64833 20 7.79667 19.9475 7.91583 19.8425C8.205 19.585 15 13.4733 15 7.55417C15 3.38833 11.635 0 7.5 0ZM7.5 11.6667C5.2025 11.6667 3.33333 9.7975 3.33333 7.5C3.33333 5.2025 5.2025 3.33333 7.5 3.33333C9.7975 3.33333 11.6667 5.2025 11.6667 7.5C11.6667 9.7975 9.7975 11.6667 7.5 11.6667Z"
-                                                fill="#089EFF" />
-                                          </svg>
-                                       </span>
-                                                </div>
-                                                <div class="location__info-text">
-                                                    <p><a target="_blank" href="https://www.google.com/maps">5095 Telegraph
-                                                            Ave,Oakland, California-94609, USA</a></p>
-                                                </div>
-                                            </div>
-                                            <div class="location__info-item">
-                                                <div class="location__info-icon">
-                                                    <span>
-                                          <svg width="18" height="18" viewBox="0 0 18 18" fill="none"
-                                             xmlns="http://www.w3.org/2000/svg">
-                                             <path
-                                                d="M9.00036 18C13.9631 18 18 13.9626 18 9C18 4.03742 13.9631 0 9.00036 0C4.03758 0 0 4.03742 0 9C0 13.9626 4.03758 18 9.00036 18ZM7.93447 3.70985V3.46542C7.93447 2.87636 8.41127 2.39957 9.00036 2.39957C9.58873 2.39957 10.0662 2.87636 10.0662 3.46542V3.71127C11.3346 3.98342 12.289 5.11322 12.289 6.46187C12.289 7.05021 11.8115 7.52771 11.2231 7.52771C10.634 7.52771 10.1572 7.05021 10.1572 6.46187C10.1572 6.08598 9.85093 5.77972 9.47503 5.77972H8.51929C8.14338 5.77972 7.83712 6.08598 7.83712 6.46187C7.83712 6.67717 7.94015 6.88181 8.11354 7.00971L9.00036 7.66627L11.1549 9.26078C11.8626 9.78446 12.289 10.6222 12.2947 11.5033V11.5133C12.2996 12.265 12.0118 12.9742 11.4832 13.5092C11.0909 13.9064 10.6006 14.1729 10.0662 14.2852V14.5346C10.0662 15.1236 9.58873 15.6004 9.00036 15.6004C8.41127 15.6004 7.93447 15.1236 7.93447 14.5346V14.2887C7.41431 14.1779 6.93609 13.9221 6.54953 13.5398C6.01445 13.0118 5.71742 12.307 5.71316 11.5552C5.7096 10.9668 6.18357 10.4865 6.77194 10.4829H6.77904C7.36457 10.4829 7.84138 10.9562 7.84493 11.5424C7.84635 11.9103 8.14232 12.2203 8.53066 12.2203C9.11959 12.2167 8.90023 12.218 9.48498 12.2146C9.8633 12.2116 10.1658 11.9046 10.1629 11.5275V11.5175C10.1615 11.3044 10.0584 11.1011 9.88646 10.9739L9.00036 10.3181L6.84513 8.72359C6.1317 8.19493 5.70534 7.34936 5.70534 6.46187C5.70534 5.11037 6.66251 3.97987 7.93447 3.70985Z"
-                                                fill="#FB5141" />
-                                          </svg>
-                                       </span>
-                                                </div>
-                                                <div class="location__info-text">
-                                                    <ul>
-                                                        <li>Cash Withdraw </li>
-                                                        <li>Balance Check </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <div class="lacation__link">
-                                                <a class="lacation__btn" href="#"><span><i
-                                             class="fa-regular fa-arrow-right"></i></span>Get Direction</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="lacation__item">
-                                <div class="dot dot-2"></div>
-                            </div>
-                            <div class="lacation__item">
-                                <div class="dot dot-3"></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Finance area end -->
-
-        <!-- Brand area start -->
-        <div class="brand__area-6 theme-bg-1 section-rounded-60 section-space">
-            <div class="container">
-                <div class="swiper brnad__active">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <div class="brand__item text-center">
-                                <div class="brand__thumb">
-                                    <img src="assets/imgs/brand/brand-01.png" alt="image not found">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="brand__item text-center">
-                                <div class="brand__thumb">
-                                    <img src="assets/imgs/brand/brand-02.png" alt="image not found">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="brand__item text-center">
-                                <div class="brand__thumb">
-                                    <img src="assets/imgs/brand/brand-03.png" alt="image not found">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="brand__item text-center">
-                                <div class="brand__thumb">
-                                    <img src="assets/imgs/brand/brand-04.png" alt="image not found">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="brand__item text-center">
-                                <div class="brand__thumb">
-                                    <img src="assets/imgs/brand/brand-05.png" alt="image not found">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="brand__item text-center">
-                                <div class="brand__thumb">
-                                    <img src="assets/imgs/brand/brand-06.png" alt="image not found">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="brand__item text-center">
-                                <div class="brand__thumb">
-                                    <img src="assets/imgs/brand/brand-02.png" alt="image not found">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Brand area end -->
+      
 
     </main>
     <!-- Body main wrapper end -->
-
-    <!-- Footer area start -->
-    <footer>
-        <section class="footer__area-common">
-            <div class="container">
-                <div class="footer__main">
-                    <div class="footer__grid">
-                        <div class="footer__widget">
-                            <div class="footer__logo mb-25">
-                                <a href="index-2.html">
-                                    <img src="assets/imgs/logo/logo-white.svg" alt="logo not found">
-                                </a>
-                            </div>
-                            <div class="footer__content">
-                                <p>Lorem ipsum dolor am oledop consectetur adipisc.</p>
-                                <div class="footer__social">
-                                    <a href="#"><i class="fa-brands fa-facebook"></i></a>
-                                    <a href="#"><i class="fa-brands fa-twitter"></i></a>
-                                    <a href="#"><i class="fa-brands fa-linkedin"></i></a>
-                                    <a href="#"><i class="fa-brands fa-youtube"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="footer__widget">
-                            <div class="footer__widget-title">
-                                <h5>Use Cases</h5>
-                            </div>
-                            <div class="footer__link">
-                                <ul>
-                                    <li><a href="#">SaaS</a></li>
-                                    <li><a href="#">Online Business</a></li>
-                                    <li><a href="#">Creators</a></li>
-                                    <li><a href="#">E-Commerce</a></li>
-                                    <li><a href="#">Agencies</a></li>
-                                    <li><a href="#">Secure</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="footer__widget">
-                            <div class="footer__widget-title">
-                                <h5>Products</h5>
-                            </div>
-                            <div class="footer__link">
-                                <ul>
-                                    <li><a href="#">Invoicing</a></li>
-                                    <li><a href="#">Office Hours</a></li>
-                                    <li><a href="#">Explore More</a></li>
-                                    <li><a href="#">Loan Type</a></li>
-                                    <li><a href="#">Calculate</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="footer__widget">
-                            <div class="footer__widget-title">
-                                <h5>Newsletter</h5>
-                            </div>
-                            <div class="footer__newsletter">
-                                <p>For latest Update subscribe us!</p>
-                                <form action="https://html.bdevs.net/blufx-prev/assets/mail.php" method="POST">
-                                    <div class="footer__newsletter-from mb-25">
-                                        <div class="footer__newsletter-input p-relative">
-                                            <input type="text" placeholder="Enter Email">
-                                            <button class="footer__round-btn" type="submit"><i class="fa-regular fa-angle-right"></i></button>
-                                        </div>
-                                    </div>
-                                </form>
-                            </div>
-                            <div class="footer__short-info">
-                                <div class="info-icon">
-                                    <span><i class="fa-solid fa-envelope"></i></span>
-                                </div>
-                                <div class="info-content">
-                                    <p><a href="https://html.bdevs.net/cdn-cgi/l/email-protection#5139343d3d3e1137383f263822347f323e3c"><span class="__cf_email__" data-cfemail="89e1ece5e5e6c9efe0e7fee0faeca7eae6e4">[email&#160;protected]</span></a></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="footer__bottom">
-                    <div class="footer__copyright">
-                        <p>Copyright © 2023 <a href="#">blufx</a></p>
-                    </div>
-                    <div class="footer__conditions">
-                        <ul>
-                            <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                            <li><a href="contact.html">Contact Us</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </footer>
-    <!-- Footer area end -->
-
-    <!-- JS here -->
-    <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
-    <script src="assets/js/plugins/waypoints.min.js"></script>
-    <script src="assets/js/vendor/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/plugins/meanmenu.min.js"></script>
-    <script src="assets/js/plugins/swiper.min.js"></script>
-    <script src="assets/js/plugins/slick.min.js"></script>
-    <script src="assets/js/plugins/wow.js"></script>
-    <script src="assets/js/vendor/magnific-popup.min.js"></script>
-    <script src="assets/js/vendor/type.js"></script>
-    <script src="assets/js/plugins/counterup.js"></script>
-    <script src="assets/js/plugins/nice-select.min.js"></script>
-    <script src="assets/js/vendor/jquery-ui.min.js"></script>
-    <script src="assets/js/plugins/parallax-scroll.js"></script>
-    <script src="assets/js/vendor/ajax-form.js"></script>
-    <script src="assets/js/main.js"></script>
-</body>
-
-</html>
+<?php
+include("footer.php");
+?>

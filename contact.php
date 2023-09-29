@@ -29,7 +29,7 @@ include("header.php");
                             <div class="breadcrumb__menu mb-10">
                                 <nav>
                                     <ul>
-                                        <li><span><a href="index-2.html">Home</a></span></li>
+                                        <li><span><a href="index">Home</a></span></li>
                                         <li><span>Contact</span></li>
                                     </ul>
                                 </nav>
@@ -42,8 +42,7 @@ include("header.php");
                     </div>
                     <div class="col-xxl-5 col-xl-5 col-lg-5">
                         <div class="breadcrumb__description">
-                            <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in
-                                hendrerit.</p>
+                            <p class="mb-0">Thank you for your interest in Blufx. We are here to assist you and address any inquiries or concerns you may have. Please feel free to reach out to us using the following contact information:</p>
                         </div>
                     </div>
                 </div>
@@ -152,7 +151,7 @@ include("header.php");
                                 <span class="section__subtitle-7 mb-20">contact us</span>
                                 <h2 class="section__title mb-20">Get in Touch!</h2>
                             </div>
-                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in hendrerit.</p>
+                            <p>For general inquiries, account assistance, or technical support, our dedicated customer support team is available 24/7.</p>
                             <div class="contact__info-wrapper">
                                 <ul>
                                     <li>
@@ -169,7 +168,7 @@ include("header.php");
                                             </div>
                                             <div class="contact__info-content">
                                                 <h6>E-mail address</h6>
-                                                <span><a href="https://html.bdevs.net/cdn-cgi/l/email-protection#fb889a979ebb9d92958c92889ed5989496"><span class="__cf_email__" data-cfemail="7704161b1237111e19001e04125914181a">[email&#160;protected]</span></a></span>
+                                                <span><a href="https://html.bdevs.net/cdn-cgi/l/email-protection#fb889a979ebb9d92958c92889ed5989496"><span class="__cf_email__" data-cfemail="7704161b1237111e19001e04125914181a">info@blufx.in</span></a></span>
                                             </div>
                                         </div>
                                     </li>
@@ -193,7 +192,7 @@ include("header.php");
                                     </span>
                                             </div>
                                             <div class="contact__info-content">
-                                                <h6>E-mail address</h6>
+                                                <h6>Phone</h6>
                                                 <span><a href="tel:+13322078097">+13322078097</a></span>
                                             </div>
                                         </div>
@@ -218,37 +217,12 @@ include("header.php");
                                     </span>
                                             </div>
                                             <div class="contact__info-content">
-                                                <h6>Bank Location</h6>
-                                                <span><a target="_blank" href="https://www.google.com/maps">Ave,Oakland,
-                                          California-94609, USA</a></span>
+                                                <h6>Address</h6>
+                                                <span><a target="_blank" href="https://www.google.com/maps">45 The Avenue London N35 9PS</a></span>
                                             </div>
                                         </div>
                                     </li>
-                                    <li>
-                                        <div class="contact__info">
-                                            <div class="contact__info-icon">
-                                                <span>
-                                       <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
-                                          xmlns="http://www.w3.org/2000/svg">
-                                          <g clip-path="url(#clip0_1135_1185)">
-                                             <path
-                                                d="M26.3113 3.68874C23.9325 1.31002 20.7698 0 17.4059 0C14.0419 0 10.8792 1.31002 8.50046 3.68874C6.12175 6.06745 4.81172 9.2301 4.81172 12.5941C4.81172 15.5645 5.83372 18.3775 7.71031 20.6328L0 28.3431L1.65686 29.9999L9.36711 22.2897C11.6225 24.1663 14.4355 25.1883 17.4059 25.1883C20.7699 25.1883 23.9326 23.8783 26.3113 21.4995C28.6899 19.1208 30 15.9581 30 12.5941C30 9.23016 28.6899 6.06745 26.3113 3.68874ZM17.4059 22.8452C11.7534 22.8452 7.15482 18.2466 7.15482 12.5941C7.15482 6.94171 11.7534 2.3431 17.4059 2.3431C23.0583 2.3431 27.6569 6.94171 27.6569 12.5941C27.6569 18.2466 23.0583 22.8452 17.4059 22.8452ZM21.5649 8.37657H20.9205V8.0251C20.9205 6.08713 19.3438 4.51046 17.4059 4.51046C15.4679 4.51046 13.8912 6.08713 13.8912 8.0251V8.37657H13.2469C11.6319 8.37657 10.318 9.69046 10.318 11.3054V15.7573C10.318 17.3723 11.6319 18.6862 13.2469 18.6862H21.5649C23.1798 18.6862 24.4937 17.3723 24.4937 15.7573V11.3054C24.4937 9.69046 23.1798 8.37657 21.5649 8.37657ZM16.2343 8.0251C16.2343 7.37911 16.7599 6.85355 17.4059 6.85355C18.0519 6.85355 18.5774 7.37911 18.5774 8.0251V8.37657H16.2343V8.0251ZM22.1506 15.7573C22.1506 16.0803 21.8879 16.3431 21.5649 16.3431H13.2469C12.9239 16.3431 12.6611 16.0803 12.6611 15.7573V11.3054C12.6611 10.9824 12.9239 10.7197 13.2469 10.7197H16.2343V13.1172H18.5774V10.7197H21.5649C21.8879 10.7197 22.1506 10.9824 22.1506 11.3054V15.7573Z"
-                                                fill="#E540A3" />
-                                          </g>
-                                          <defs>
-                                             <clipPath id="clip0_1135_1185">
-                                                <rect width="30" height="30" fill="white" />
-                                             </clipPath>
-                                          </defs>
-                                       </svg>
-                                    </span>
-                                            </div>
-                                            <div class="contact__info-content">
-                                                <h6>Find Job!</h6>
-                                                <span><a href="https://html.bdevs.net/cdn-cgi/l/email-protection#1b687a777e5b7d72756c72687e35787476"><span class="__cf_email__" data-cfemail="5b383a293e3e291b3d32352c32283e75383436">[email&#160;protected]</span></a></span>
-                                            </div>
-                                        </div>
-                                    </li>
+                                    
                                 </ul>
                             </div>
                         </div>
@@ -257,151 +231,6 @@ include("header.php");
             </div>
         </section>
         <!-- Contact area end -->
-
-        <!-- FAQ area start -->
-        <section class="faq__area section-space-bottom p-relative fix">
-            <div class="container">
-                <div class="row section__title-space justify-content-center">
-                    <div class="col-xxl-5 col-xl-5 col-lg-5">
-                        <div class="section__title-wrapper text-center">
-                            <span class="section__subtitle-7 mb-20">READ FAQ</span>
-                            <h2 class="section__title">General Questions.</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row justify-content-center wow fadeInUp" data-wow-delay=".5s">
-                    <div class="col-xxl-8 col-xl-8 col-lg-10">
-                        <div class="fap__style-2">
-                            <div class="bd__faq">
-                                <div class="accordion" id="accordionExample">
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header" id="headingOne">
-                                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                                <span>Q.</span> What makes blufx different?
-                                            </button>
-                                        </h2>
-                                        <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                                            <div class="accordion-body">
-                                                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in
-                                                    hendt urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur,
-                                                    ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue.
-                                                    Vestibulum auctor ornare leo, non suscipit magna interdum.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header" id="headingTwo">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                <span>Q.</span> How does blufx make money?
-                                            </button>
-                                        </h2>
-                                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                                            <div class="accordion-body">
-                                                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in
-                                                    hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula
-                                                    consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet
-                                                    augue.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header" id="headingThree">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                <span>Q.</span> Why should I trust blufx?
-                                            </button>
-                                        </h2>
-                                        <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                                            <div class="accordion-body">
-                                                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in
-                                                    hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula
-                                                    consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet
-                                                    augue.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header" id="headingFour">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                                <span>Q.</span> How does blufx work?
-                                            </button>
-                                        </h2>
-                                        <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
-                                            <div class="accordion-body">
-                                                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in
-                                                    hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula
-                                                    consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet
-                                                    augue.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- FAQ area end -->
-
-        <!-- Brand area start -->
-        <div class="brand__area-6 theme-bg-1 section-rounded-60 section-space">
-            <div class="container">
-                <div class="swiper brnad__active">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <div class="brand__item text-center">
-                                <div class="brand__thumb">
-                                    <img src="assets/imgs/brand/brand-01.png" alt="image not found">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="brand__item text-center">
-                                <div class="brand__thumb">
-                                    <img src="assets/imgs/brand/brand-02.png" alt="image not found">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="brand__item text-center">
-                                <div class="brand__thumb">
-                                    <img src="assets/imgs/brand/brand-03.png" alt="image not found">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="brand__item text-center">
-                                <div class="brand__thumb">
-                                    <img src="assets/imgs/brand/brand-04.png" alt="image not found">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="brand__item text-center">
-                                <div class="brand__thumb">
-                                    <img src="assets/imgs/brand/brand-05.png" alt="image not found">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="brand__item text-center">
-                                <div class="brand__thumb">
-                                    <img src="assets/imgs/brand/brand-06.png" alt="image not found">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="brand__item text-center">
-                                <div class="brand__thumb">
-                                    <img src="assets/imgs/brand/brand-02.png" alt="image not found">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Brand area end -->
 
     </main>
     <!-- Body main wrapper end -->

@@ -3,7 +3,7 @@
     <footer>
         <section class="footer__area-common">
             <div class="container">
-                <div class="footer__main">
+                <!--div class="footer__main">
                     <div class="footer__grid">
                         <div class="footer__widget">
                             <div class="footer__logo mb-25">
@@ -75,15 +75,15 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div-->
                 <div class="footer__bottom">
                     <div class="footer__copyright">
                         <p>Copyright © 2023 <a href="#">blufx</a></p>
                     </div>
                     <div class="footer__conditions">
                         <ul>
-                            <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                            <li><a href="contact.html">Contact Us</a></li>
+                            <li><a href="privacy-policy.php">Privacy Policy</a></li>
+                            <li><a href="contact">Contact Us</a></li>
                         </ul>
                     </div>
                 </div>

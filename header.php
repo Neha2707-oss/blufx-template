@@ -52,7 +52,7 @@
                 <div class="offcanvas__content">
                     <div class="offcanvas__top d-flex justify-content-between align-items-center">
                         <div class="offcanvas__logo">
-                            <a href="index-2.html">
+                            <a href="index">
                                 <img src="assets/imgs/logo/logo-white.svg" alt="logo not found">
                             </a>
                         </div>
@@ -76,8 +76,8 @@
                     </div>
                     <div class="offcanvas__btn">
                         <div class="header__btn-wrap">
-                            <a class="sub__btn sm" href="login.html">Log In</a>
-                            <a class="bd-gradient-btn" href="contact.html">Get Started</a>
+                            <a class="sub__btn sm" href="app">Log In</a>
+                            <a class="bd-gradient-btn" href="app/register">Get Started</a>
                         </div>
                     </div>
                 </div>
@@ -135,9 +135,9 @@
                                                             <a href="javasript:void(0);" class="mega-menu-title">Company</a>
                                                             <ul>
                                                                 <li><a href="about">About Us</a></li>
-                                                                <li><a href="services.html">Regulation</a></li>
-                                                                <li><a href="services.html">cTrader</a></li>
-                                                                <li><a href="services.html">Trading Tools</a></li>
+                                                                <li><a href="regulation">Regulation</a></li>
+                                                                <li><a href="ctrader">cTrader</a></li>
+                                                                <li><a href="trading-tools">Trading Tools</a></li>
                                                                 <li><a href="copy-trading">Copy Trading</a></li>
                                                                 <li><a href="mt4">MT4 & MT5</a></li>
                                                             </ul>
@@ -157,8 +157,8 @@
                         <div class="header__right">
                             <div class="header__action d-flex align-items-center">
                                 <div class="header__btn-wrap d-none d-xl-inline-flex">
-                                    <a class="sub__btn" href="login.html">Log In</a>
-                                    <a class="bd-gradient-btn" href="contact">Get Started</a>
+                                    <a class="sub__btn" href="app">Log In</a>
+                                    <a class="bd-gradient-btn" href="app/register">Get Started</a>
                                 </div>
                                 <div class="header__hamburger ml-20 d-xl-none">
                                     <div class="sidebar__toggle">

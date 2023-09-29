@@ -23,8 +23,7 @@
                 <div class="row">
                     <div class="col-xxl-6 col-xl-6 col-lg-8">
                         <div class="breadcrumb__title-wraper">
-                            <span class="section__subtitle-7 mb-20 wow fadeIn" data-wow-delay=".3s">Services</span>
-                            <h2 class="breadcrumb__title wow fadeIn" data-wow-delay=".5s">Secure Bank: Your<span
+                            <h2 class="breadcrumb__title wow fadeIn" data-wow-delay=".5s">Blufx LLC: Your<span
                            class="gradient-text-3">Trusted Financial Partner</span></h2>
                         </div>
                     </div>
@@ -42,32 +41,16 @@
                             <div class="efficient__thumb">
                                 <img src="assets/imgs/efficient/efficient-thumb.png" alt="image not found">
                             </div>
-                            <div class="card-1">
-                                <img src="assets/imgs/efficient/card-01.png" alt="image not found">
-                            </div>
-                            <div class="card-2">
-                                <img src="assets/imgs/efficient/card-02.png" alt="image not found">
-                            </div>
+                            
+                            
                         </div>
                     </div>
                     <div class="col-xxl-6 col-xl-6 col-lg-6">
                         <div class="efficient__content wow fadeInRight animated" data-wow-delay=".6s">
                             <div class="section__title-wrapper">
-                                <span class="section__subtitle-7 mb-20">Efficient Banking</span>
-                                <h2 class="section__title mb-20">Instant Banking at Your Fingertips.</h2>
+                                <h2 class="section__title mb-20">What is Copy Trading ?</h2>
                             </div>
-                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in hendrerit
-                                urna. <span class="text-color-1">Pellentesque</span> sit amet sapien fringilla, mattis ligula consecte.</p>
-                            <div class="info__list">
-                                <ul>
-                                    <li>Two-factor authentication</li>
-                                    <li>Regular password update</li>
-                                </ul>
-                            </div>
-                            <div class="btn__wrapper">
-                                <a class="bd-gradient-btn" href="service-details.html">Know More<span><i
-                                 class="fa-regular fa-angle-right"></i></span></a>
-                            </div>
+                            <p>Blufx LLC Copy Trading allows you to find, follow and copy successful traders automatically. There is no need to build your own trading strategy or conduct research on forex markets. Copy trading removes the complexities of trading forex and CFDs. Find out how it works and take part in the largest financial markets in the world.</p>
                         </div>
                     </div>
                 </div>
@@ -82,8 +65,7 @@
                     <div class="col-xxl-8 col-xl-6 col-lg-6">
                         <div class="efficient__content">
                             <div class="section__title-wrapper text-center section__title-space">
-                                <span class="section__subtitle-7 mb-20">Why Us</span>
-                                <h2 class="section__title mb-20">Trusted Online Banking.</h2>
+                                <h2 class="section__title mb-20">Copy trading with Blufx LLC can be done in a few simple steps:</h2>
                             </div>
                         </div>
                     </div>
@@ -95,8 +77,8 @@
                                 <span><i class="flaticon-settings"></i></span>
                             </div>
                             <div class="why-us__content">
-                                <h4>Be Genuine</h4>
-                                <p>Keep empathy and comsion central to everything.</p>
+                                <h4> Open an Account</h4>
+                                <p>Blufx LLCoffer copy trading through the powerful MetaTrader 4 and MetaTrader 5 platforms. Open a trading account and deposit using one of our many funding options.</p>
                             </div>
                         </div>
                     </div>
@@ -106,8 +88,8 @@
                                 <span><i class="flaticon-credit-card-1"></i></span>
                             </div>
                             <div class="why-us__content">
-                                <h4>Invest in Growth</h4>
-                                <p>Keep empathy and comsion central to everything.</p>
+                                <h4>Choose the best traders to follow</h4>
+                                <p>Find and follow the most successful traders. Our detailed Ratings Page ranks Providers based on their profitability over a given period of time. It includes their full trading history and past performance.</p>
                             </div>
                         </div>
                     </div>
@@ -117,8 +99,8 @@
                                 <span><i class="flaticon-lender"></i></span>
                             </div>
                             <div class="why-us__content">
-                                <h4>Distil the SMS</h4>
-                                <p>Keep empathy and comsion central to everything.</p>
+                                <h4>Copy Trading options</h4>
+                                <p>One of the many benefits of our copy trading platform is functionality. We offer multiple copy trading modes and there is no limit on the amount of Providers you can copy.</p>
                             </div>
                         </div>
                     </div>
@@ -128,8 +110,8 @@
                                 <span><i class="flaticon-shield-1"></i></span>
                             </div>
                             <div class="why-us__content">
-                                <h4>Take Action</h4>
-                                <p>Keep empathy and comsion central to everything.</p>
+                                <h4>Control is still in your hands</h4>
+                                <p>Although you are replicating the trading behaviour of others, Blufx LLCcopy trading allows you to maintain control. You can activate and deactivate copy trading with the press of a single button</p>
                             </div>
                         </div>
                     </div>
@@ -145,16 +127,9 @@
                     <div class="col-xxl-6 col-xl-6 col-lg-6">
                         <div class="payday__content wow fadeInLeft" data-wow-delay=".7s">
                             <div class="section__title-wrapper">
-                                <span class="section__subtitle-7 mb-20">Early Payday</span>
-                                <h2 class="section__title mb-20">Get Your Pay Check Up to 48 Hours</h2>
+                                <h2 class="section__title mb-20">Social Trading vs Copy Trading</h2>
                             </div>
-                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in hendrerit
-                                urna. <span class="text-color-1">Pellentesque</span> sit amet sapien fringilla, mattis ligula
-                                consecte.</p>
-                            <div class="btn__wrapper">
-                                <a class="bd-gradient-btn" href="service-details.html">Know More<span><i
-                                 class="fa-regular fa-angle-right"></i></span></a>
-                            </div>
+                            <p>Social trading and copy trading are not one and the same. Copy trading refers to the process of binding your account with that of another trader in order to replicate the trades that they execute. WithBlufx LLC social platform you are able to modify how you mirror the trades of the selected person, but the trading is automated.</p>
                         </div>
                     </div>
                     <div class="col-xxl-6 col-xl-6 col-lg-6">
@@ -180,149 +155,7 @@
         </div>
         <!-- Section devider end -->
 
-        <!-- FAQ area start -->
-        <section class="faq__area section-space-bottom">
-            <div class="container">
-                <div class="row section__title-space justify-content-center">
-                    <div class="col-xxl-5 col-xl-5 col-lg-5">
-                        <div class="section__title-wrapper text-center">
-                            <span class="section__subtitle-7 mb-20">READ FAQ</span>
-                            <h2 class="section__title">General Questions.</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row justify-content-center wow fadeInUp" data-wow-delay=".5s">
-                    <div class="col-xxl-8 col-xl-8 col-lg-10">
-                        <div class="fap__style-2">
-                            <div class="bd__faq">
-                                <div class="accordion" id="accordionExample">
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header" id="headingOne">
-                                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                                <span>Q.</span> What makes Finwise different?
-                                            </button>
-                                        </h2>
-                                        <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                                            <div class="accordion-body">
-                                                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in
-                                                    hendt urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur,
-                                                    ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue.
-                                                    Vestibulum auctor ornare leo, non suscipit magna interdum.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header" id="headingTwo">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                <span>Q.</span> How does Finwise make money?
-                                            </button>
-                                        </h2>
-                                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                                            <div class="accordion-body">
-                                                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in
-                                                    hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula
-                                                    consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet
-                                                    augue.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header" id="headingThree">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                <span>Q.</span> Why should I trust Finwise?
-                                            </button>
-                                        </h2>
-                                        <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                                            <div class="accordion-body">
-                                                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in
-                                                    hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula
-                                                    consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet
-                                                    augue.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header" id="headingFour">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                                <span>Q.</span> How does Finwise work?
-                                            </button>
-                                        </h2>
-                                        <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
-                                            <div class="accordion-body">
-                                                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in
-                                                    hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula
-                                                    consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet
-                                                    augue.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- FAQ area end -->
-
-        <!-- Brand area start -->
-        <div class="brand__area-6 theme-bg-1 section-rounded-60 section-space">
-            <div class="container">
-                <div class="swiper brnad__active">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <div class="brand__item text-center">
-                                <div class="brand__thumb">
-                                    <img src="assets/imgs/brand/brand-01.png" alt="image not found">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="brand__item text-center">
-                                <div class="brand__thumb">
-                                    <img src="assets/imgs/brand/brand-02.png" alt="image not found">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="brand__item text-center">
-                                <div class="brand__thumb">
-                                    <img src="assets/imgs/brand/brand-03.png" alt="image not found">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="brand__item text-center">
-                                <div class="brand__thumb">
-                                    <img src="assets/imgs/brand/brand-04.png" alt="image not found">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="brand__item text-center">
-                                <div class="brand__thumb">
-                                    <img src="assets/imgs/brand/brand-05.png" alt="image not found">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="brand__item text-center">
-                                <div class="brand__thumb">
-                                    <img src="assets/imgs/brand/brand-06.png" alt="image not found">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="brand__item text-center">
-                                <div class="brand__thumb">
-                                    <img src="assets/imgs/brand/brand-02.png" alt="image not found">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+     
         <!-- Brand area end -->
 
     </main>
